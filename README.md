@@ -1,4 +1,4 @@
-# Gerador-de-Qrcode
+# QR Code Generator
 Automatically generate QR codes in Python in conjunction with an Excel spreadsheet
 
 QR Code Generator from Excel Data
